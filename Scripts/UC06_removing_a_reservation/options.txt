@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\admin\Desktop\LoadRunner_final_task\scripts\UC06_removing_a_reservation
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\admin\desktop\loadrunner_final_task\scripts\uc06_removing_a_reservation\\logfile.log
+c:\users\admin\desktop\loadrunner_final_task\scripts\uc06_removing_a_reservation\\combined_UC06_removing_a_reservation.c
+c:\users\admin\desktop\loadrunner_final_task\scripts\uc06_removing_a_reservation\\pre_cci.c

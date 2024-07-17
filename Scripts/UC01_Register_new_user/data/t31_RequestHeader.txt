@@ -1,0 +1,19 @@
+POST /clck/click HTTP/1.1
+Host: yandex.ru
+Connection: keep-alive
+Content-Length: 477
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://suggest.sso.dzen.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://suggest.sso.dzen.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: gdpr=0; is_gdpr=0; yandex_login=d15031985; yandexuid=8163798301671449194; yuidss=8163798301671449194; is_gdpr_b=CN3iTBD2mwEoAg==; ymex=1986809194.yrts.1671449194#1986809194.yrtsi.1671449194; _ym_uid=1671449196170905646; ys=udn.cDpkMTUwMzE5ODU%3D#wprid.1671449268358088-11575354293307916930-sas3-1012-26a-sas-l7-balancer-8080-BAL-855#c_chck.1201322956; yashr=7570657411674479461; Session_id=3:1675667433.5.0.1671449249376:2hBwJQ:1b.1.2:1|235331517.0.2|3:10265175.507262.zUfiw0ez2kJOozuo3t3SLNqIU64; sessionid2=3:1675667433.5.0.1671449249376:2hBwJQ:1b.1.2:1|235331517.0.2|3:10265175.507262.fakesign0000000000000000000; i=3vuc+0FyCDvZH0Pt45Mymd84vWUr2cDzGf8a8PtBoAyA2jKynYMTfK71SiPVoy1/3vUNhgNzv5N2clFx088MHxEYKKU=; bh=EkEiR29vZ2xlIENocm9tZSI7dj0iMTEzIiwgIkNocm9taXVtIjt2PSIxMTMiLCAiTm90LUEuQnJhbmQiO3Y9IjI0IhoFIng4NiIiECIxMTMuMC41NjcyLjEyNyIqAj8wOgkiV2luZG93cyJCCCIxMC4wLjAiSgQiNjQiUlwiR29vZ2xlIENocm9tZSI7dj0iMTEzLjAuNTY3Mi4xMjciLCJDaHJvbWl1bSI7dj0iMTEzLjAuNTY3Mi4xMjciLCJOb3QtQS5CcmFuZCI7dj0iMjQuMC4wLjAiIg==
+

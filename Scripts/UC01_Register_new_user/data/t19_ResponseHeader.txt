@@ -1,0 +1,14 @@
+HTTP/1.1 200 Ok
+Accept-CH: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://dzen.ru
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Content-Length: 43
+Content-Type: image/gif
+Date: Wed, 24 May 2023 16:05:26 GMT
+Expires: Wed, 24-May-2023 16:05:26 GMT
+Last-Modified: Wed, 24-May-2023 16:05:26 GMT
+Pragma: no-cache
+Strict-Transport-Security: max-age=31536000
+X-XSS-Protection: 1; mode=block
+

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\admin\Desktop\LoadRunner_final_task\scripts\UC04_product_in_the_cart
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\admin\desktop\loadrunner_final_task\scripts\uc04_product_in_the_cart\\logfile.log
+c:\users\admin\desktop\loadrunner_final_task\scripts\uc04_product_in_the_cart\\combined_UC04_product_in_the_cart.c
+c:\users\admin\desktop\loadrunner_final_task\scripts\uc04_product_in_the_cart\\pre_cci.c

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\admin\Desktop\LoadRunner_final_task\scripts\UC03_purchase_of_goods
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\admin\desktop\loadrunner_final_task\scripts\uc03_purchase_of_goods\\logfile.log
+c:\users\admin\desktop\loadrunner_final_task\scripts\uc03_purchase_of_goods\\combined_UC03_purchase_of_goods.c
+c:\users\admin\desktop\loadrunner_final_task\scripts\uc03_purchase_of_goods\\pre_cci.c

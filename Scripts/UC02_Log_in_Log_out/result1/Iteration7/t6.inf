@@ -1,0 +1,24 @@
+[t6]
+FileName2=t5_34_.html
+RawStepEndTime=1685538543254
+FileName5=t5_31_Roboto-Thin-webfont.UNK
+FileName4=t5_32_Roboto-Bold-webfont.UNK
+FileName6=t5_30_Special-offer.html
+RequestBodyFile=t6_RequestBody.txt
+RawStepName=AccountLoginRequest
+ContentType=application/xml
+URL1=https://www.advantageonlineshopping.com/accountservice/ws/AccountLoginRequest
+URL2=https://www.advantageonlineshopping.com/app/views/
+URL3=https://www.advantageonlineshopping.com/css/images/chat_logo.png
+ResponseHeaderFile=t6_ResponseHeader.txt
+URL4=https://www.advantageonlineshopping.com/css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff
+URL5=https://www.advantageonlineshopping.com/css/fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff
+URL6=https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg
+SnapshotXmlFile=snapshot_6.xml
+RequestHeaderFile=t6_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1685538542921
+Total=6
+StepName=Custom Request: AccountLoginRequest
+FileName1=t6.xml
+FileName3=t5_33_chat_logo.png

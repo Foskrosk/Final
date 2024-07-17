@@ -1,0 +1,11 @@
+[t27]
+FileName1=t27.json
+URL1=https://dzen.ru/api/v3/launcher/stats/bulk?country_code=ru&clid=1400&_csrf=0264a74bdcb97536bcaa3ca9625c4a5cd08d04a9-1684944266412-0-8163798301671449194%3A0&lang=ru&use_us=1&secdata2=CAcSEDE5Ni42Yjc4MDUxMjIwOTIYBiAAKAAwADgAQAFIA1AAWAFoAXAB
+Total=1
+RequestHeaderFile=t27_RequestHeader.txt
+RequestBodyFile=t27_RequestBody.txt
+ResponseHeaderFile=t27_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_27.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

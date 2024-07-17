@@ -1,0 +1,6 @@
+"/reqid=1684944325147818-11055967132256013468-rtc-balancer-suggest-dzen-ru-sas-25-BAL/path=690."
+"2096.361/slots=770037,0,33;773485,0,37;736493,0,1/vars=143=28.1604.899,287=0,1961=0,1964=0,196"
+"5=0,-project=morda,-page=dzen_suggest,-platform=desktop,-env=production,-version=2023-05-23-28"
+"8,-blocker=,-additional=%7B%7D,d=suggest.sso.dzen.ru-!3!106270;mc.yandex.ru-js!1!0;yastatic.ne"
+"t-svg!1!0;suggest.sso.dzen.ru-cgi!1!351;mc.yandex.ru-!1!0;,t=18589.5,-cdn=unknown/cts=16849443"
+"43076/*"

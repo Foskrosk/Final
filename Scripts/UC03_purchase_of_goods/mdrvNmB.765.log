@@ -1,0 +1,48 @@
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+Action.c(186): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(186): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(189): web_remove_auto_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+Action.c(189): Previous automatically added web header for "X-Requested-With" removed  	[MsgId: MMSG-26587]
+Action.c(189): web_remove/revert_auto_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+Action.c(192): web_custom_request("{userId}_4") started  	[MsgId: MMSG-26355]
+Action.c(192): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/445600811"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 21.	[MsgId: MMSG-10545]
+..\\Parameters\\common.h(47): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(47): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(50): web_add_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(50): web_add_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(53): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(53): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(56): web_custom_request("GetAccountConfigurationRequest") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(56): Error -27760: Request "https://www.advantageonlineshopping.com/accountservice/ws/GetAccountConfigurationRequest" failed  	[MsgId: MERR-27760]
+..\\Parameters\\common.h(56): Error -26366: "Text=advantageonlineshopping.com" not found for web_reg_find  	[MsgId: MERR-26366]
+..\\Parameters\\common.h(56): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 20.	[MsgId: MMSG-10545]
+..\\Parameters\\common.h(25): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(25): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(28): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(28): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(32): web_url("ALL") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(32): ssl_handle_status encounter error : SSL_ERROR_SYSCALL, error id : 0  	[MsgId: MMSG-26000]
+..\\Parameters\\common.h(32): Error -27776: [GENERAL_MSG_CAT_SSL_ERROR]connect to host "www.advantageonlineshopping.com" failed: [10054] Connection reset by peer
+This is probably because the SSL protocol version is not supported. Try switching the TLS/SSL version using "web_set_sockets_option" API.  	[MsgId: MERR-27776]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 25.	[MsgId: MMSG-10545]
+..\\Parameters\\common.h(164): web_url("products") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(164): Registered web_reg_find successful for "Text=SPEAKERS" (count=2)  	[MsgId: MMSG-26364]
+..\\Parameters\\common.h(164): web_url("products") was successful, 1971 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+..\\Parameters\\common.h(174): web_url("attributes") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(174): web_url("attributes") was successful, 552 body bytes, 375 header bytes  	[MsgId: MMSG-26386]
+..\\Parameters\\common.h(184): web_url("category-page.html") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(184): Error -27760: Request "https://www.advantageonlineshopping.com/app/views/category-page.html" failed  	[MsgId: MERR-27760]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

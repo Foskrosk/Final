@@ -1,0 +1,11 @@
+[t21]
+FileName1=t21_88488761.json
+URL1=https://mc.yandex.ru/watch/88488761?wmode=7&page-url=https%3A%2F%2Fsuggest.sso.dzen.ru%2Fportal%2Fdzensearch%2Fdesktop%3Fenable_suggest_sso_dzen_host%3D1%26ext-test-id%3D736493%26yu%3D8163798301671449194%26clid%3D&page-ref=https%3A%2F%2Fdzen.ru%2F&charset=utf-8&exp=E6nCS2KSfvAnlvOlMzeCY5adcX7Ab2Tl&uah=chu%0A%22Google%20Chrome%22%3Bv%3D%22113%22%2C%22Chromium%22%3Bv%3D%22113%22%2C%22Not-A.Brand%22%3Bv%3D%2224%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A113.0.5672.127%0Achl%0A%22Google%20Chrome%22%3Bv%3D%22113.0.5672.127%22%2C%22Chromium%22%3Bv%3D%22113.0.5672.127%22%2C%22Not-A.Brand%22%3Bv%3D%2224.0.0.0%22%0Achm%0A%3F0%0Achp%0AWindows%0Achv%0A10.0.0&browser-info=pv%3A1%3Avf%3A1ss15ba0zb4zs88uqu7o5nj%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A1043%3Acn%3A1%3Adp%3A0%3Als%3A1654449898462%3Ahid%3A909733396%3Az%3A300%3Ai%3A20230524210526%3Aet%3A1684944327%3Ac%3A1%3Arn%3A147157037%3Arqn%3A2%3Au%3A1671449196751919335%3Aw%3A930x62%3As%3A1280x1024x24%3Ask%3A1%3Aifr%3A1%3Ads%3A0%2C632%2C251%2C133%2C0%2C0%2C%2C1063%2C7%2C%2C%2C%2C2085%3Aco%3A0%3Acpf%3A1%3Antf%3A1%3Ans%3A1684944324486%3Aadb%3A2%3Arqnl%3A1%3Ast%3A1684944327%3At%3A%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81&t=gdpr(13-0)rqnt(1)aw(0)ti(2)
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_21.xml
+RequestHeaderFile=t21_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t21_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

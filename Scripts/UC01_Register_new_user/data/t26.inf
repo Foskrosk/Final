@@ -1,0 +1,13 @@
+[t26]
+FileName1=t26.gif
+URL1=https://clck.dzen.ru/click
+Total=1
+RequestHeaderFile=t26_RequestHeader.txt
+RequestBodyFile=t26_RequestBody.txt
+ResponseHeaderFile=t26_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_26.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

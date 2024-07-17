@@ -1,0 +1,4 @@
+"{\"seaddress\":{\"addressLine1\":\"\",\"addressLine2\":\"\",\"city\":\"\",\"country\":\"us\",\""
+"postalCode\":\"\",\"state\":\"\"},\"secustomerName\":\"Denis1 Denisov1\",\"secustomerPhone\":\""
+"22222222222\",\"senumberOfProducts\":1,\"setransactionType\":\"SHIPPING_COST\",\"sessionId\":\""
+"EC4476BB637198BCB59C0F9FC6B5B7DA\"}"

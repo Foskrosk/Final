@@ -1,0 +1,98 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: ALL",
+                "infFile": "t1.inf",
+                "time": 1685538684139
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t2.inf",
+                "time": 1685538684411
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: categories",
+                "infFile": "t3.inf",
+                "time": 1685538684695
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: search",
+                "infFile": "t4.inf",
+                "time": 1685538684969
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: home-page.html",
+                "infFile": "t5.inf",
+                "time": 1685538685758
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: AccountLoginRequest",
+                "infFile": "t6.inf",
+                "time": 1685538688202
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: register-page.html",
+                "infFile": "t7.inf",
+                "time": 1685538688374
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Url: {userId}_3",
+                "infFile": "t8.inf",
+                "time": 1685538690755
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: 414141",
+                "infFile": "t9.inf",
+                "time": 1685538693249
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Open_homepage",
+                "rawStartTime": 1685538683393,
+                "rawEndTime": 1685538685758,
+                "thinkTime": 0.0,
+                "wastedTime": 0.12345051765441895
+            },
+            {
+                "transactionName": "log_in",
+                "rawStartTime": 1685538687787,
+                "rawEndTime": 1685538688374,
+                "thinkTime": 0.0,
+                "wastedTime": 0.009649038314819336
+            },
+            {
+                "transactionName": "Click_basket",
+                "rawStartTime": 1685538690403,
+                "rawEndTime": 1685538690755,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004686117172241211
+            },
+            {
+                "transactionName": "Click_Remove",
+                "rawStartTime": 1685538692784,
+                "rawEndTime": 1685538693255,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004533290863037109
+            },
+            {
+                "transactionName": "UC06_removing_a_reservation",
+                "rawStartTime": 1685538683377,
+                "rawEndTime": 1685538693270,
+                "thinkTime": 6.023710000000001,
+                "wastedTime": 0.1423189640045166
+            }
+        ]
+    }
+]

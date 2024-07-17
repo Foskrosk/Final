@@ -1,0 +1,16 @@
+HTTP/1.1 200 Ok
+Accept-CH: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://suggest.sso.dzen.ru
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Content-Length: 447
+Content-Type: application/json; charset=utf-8
+Date: Wed, 24 May 2023 16:05:27 GMT
+Expires: Wed, 24-May-2023 16:05:27 GMT
+Last-Modified: Wed, 24-May-2023 16:05:27 GMT
+Pragma: no-cache
+Set-Cookie: bh=Ej8iR29vZ2xlIENocm9tZSI7dj0iMTEzIiwiQ2hyb21pdW0iO3Y9IjExMyIsIk5vdC1BLkJyYW5kIjt2PSIyNCIaBSJ4ODYiIhAiMTEzLjAuNTY3Mi4xMjciKgI/MDoJIldpbmRvd3MiQggiMTAuMC4wIkoEIjY0IlJcIkdvb2dsZSBDaHJvbWUiO3Y9IjExMy4wLjU2NzIuMTI3IiwiQ2hyb21pdW0iO3Y9IjExMy4wLjU2NzIuMTI3IiwiTm90LUEuQnJhbmQiO3Y9IjI0LjAuMC4wIiI=; Expires=Thu, 23-May-2024 16:05:27 GMT; Domain=.yandex.ru; Path=/; SameSite=None; Secure
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+

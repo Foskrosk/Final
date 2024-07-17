@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\admin\Desktop\LoadRunner_final_task\scripts\UC02_Log_in_Log_out
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\admin\desktop\loadrunner_final_task\scripts\uc02_log_in_log_out\\logfile.log
+c:\users\admin\desktop\loadrunner_final_task\scripts\uc02_log_in_log_out\\combined_UC02_Log_in_Log_out.c
+c:\users\admin\desktop\loadrunner_final_task\scripts\uc02_log_in_log_out\\pre_cci.c

@@ -1,0 +1,13 @@
+[t4]
+SnapshotXmlFile=snapshot_4.xml
+ContentType=application/json
+StepName=Url: search
+Total=1
+FileName1=t4.json
+RequestHeaderFile=t4_RequestHeader.txt
+ResponseHeaderFile=t4_ResponseHeader.txt
+RawStepEndTime=1685538519744
+RawStepName=search
+RequestBodyFile=t4_RequestBody.txt
+RawStepStartTime=1685538519472
+URL1=https://www.advantageonlineshopping.com/catalog/api/v1/deals/search?dealOfTheDay=true

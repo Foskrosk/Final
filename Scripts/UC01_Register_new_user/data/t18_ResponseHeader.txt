@@ -1,0 +1,8 @@
+HTTP/1.1 200 Ok
+Cache-Control: private, max-age=60
+Content-Disposition: attachment; filename="f.txt"
+Content-Encoding: gzip
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+X-Content-Type-Options: nosniff
+

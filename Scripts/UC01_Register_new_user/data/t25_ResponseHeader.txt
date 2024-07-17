@@ -1,0 +1,22 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 24 May 2023 16:05:33 GMT
+Content-Type: image/gif
+Content-Length: 43
+Connection: keep-alive
+Keep-Alive: timeout=60
+Set-Cookie: VID=3yEcCo1YIfoH0024UQ0nGJIH:::0-0-0-8baa32a:CAASEBhsWuAtEGdgD_WdeFloC4EaYGW3PLnPwUdU_O4xSehp0L2GnmHAjI7WyFBoO8QZbRTQ2sca9S-xJNo7bXbf794_Aehqcy7jMMD9v5JGz0lCAM4LNKFkcaHKpl5Jg1aK1dRT0Db9cEjA5-ENz6OYTydcVA; path=/; expires=Fri, 24-May-24 16:05:33 GMT; domain=.mail.ru; HttpOnly; SameSite=None; Secure
+Access-Control-Allow-Origin: https://dzen.ru
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET, POST, HEAD, PUT, OPTIONS
+Access-Control-Allow-Headers: *
+AMP-Access-Control-Allow-Source-Origin: https://dzen.ru
+Access-Control-Expose-Headers: AMP-Access-Control-Allow-Source-Origin
+Timing-Allow-Origin: https://dzen.ru
+X-Content-Type-Options: nosniff
+P3P: CP="NOI DSP COR NID CUR PSA OUR NOR"
+Cache-Control: private, no-cache, no-store, max-age=0
+Pragma: no-cache
+Accept-CH: DPR, Width, Viewport-Width, Downlink, Device-Memory, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version, Sec-CH-UA, Sec-CH-UA-Full-Version
+Accept-CH-Lifetime: 86400
+

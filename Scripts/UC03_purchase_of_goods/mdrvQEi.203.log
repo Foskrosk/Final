@@ -1,0 +1,34 @@
+Start auto log messages stack - Iteration 6.	[MsgId: MMSG-10545]
+..\\Parameters\\common.h(255): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+..\\Parameters\\common.h(258): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(258): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(261): web_reg_find started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(261): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+..\\Parameters\\common.h(264): web_submit_data("414141") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(264): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "https://www.advantageonlineshopping.com/order/api/v1/carts/761162611/product/20/color/414141?quantity=1"  	[MsgId: MERR-26612]
+..\\Parameters\\common.h(264): Error -26366: "Text=Bose Soundlink Bluetooth Speaker" not found for web_reg_find  	[MsgId: MERR-26366]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 3.	[MsgId: MMSG-10545]
+Action.c(186): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(186): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(189): web_remove_auto_header("X-Requested-With") started  	[MsgId: MMSG-26355]
+Action.c(189): Previous automatically added web header for "X-Requested-With" removed  	[MsgId: MMSG-26587]
+Action.c(189): web_remove/revert_auto_header("X-Requested-With") was successful  	[MsgId: MMSG-26392]
+Action.c(192): web_custom_request("{userId}_4") started  	[MsgId: MMSG-26355]
+Action.c(192): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "https://www.advantageonlineshopping.com/order/api/v1/orders/users/123467451"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 9.	[MsgId: MMSG-10545]
+..\\Parameters\\common.h(22): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(25): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(25): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(28): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(28): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(32): web_url("ALL") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(32): Error -27792: Failed to connect to server "www.advantageonlineshopping.com:443": [10060] Connection timed out  	[MsgId: MERR-27792]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

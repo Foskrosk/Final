@@ -1,0 +1,13 @@
+[t32]
+FileName1=t32.gif
+URL1=https://top-fwz1.mail.ru/tracker?js=13;id=3260250;u=https%3A//dzen.ru/%3Fyredirect%3Dtrue;st=1684944324574;title=%D0%94%D0%B7%D0%B5%D0%BD;s=1280*1024;vp=1263*911;touch=0;hds=1;frame=0;flash=;sid=1119a693e9335e70;ver=60.3.0;tz=-300%2FAsia%2FYekaterinburg;ni=1.55//3g/350/0/;detect=0;lvid=1671449196497%3A1684944349063%3A108%3A7e68d6aa88e46d6c774cce798e243078;opts=jst-ym;visible=false;_=0.6251084547690076;e=PVT/15
+Total=1
+RequestHeaderFile=t32_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t32_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_32.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

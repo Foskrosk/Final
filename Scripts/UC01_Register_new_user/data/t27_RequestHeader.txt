@@ -1,0 +1,22 @@
+POST /api/v3/launcher/stats/bulk?country_code=ru&clid=1400&_csrf=0264a74bdcb97536bcaa3ca9625c4a5cd08d04a9-1684944266412-0-8163798301671449194%3A0&lang=ru&use_us=1&secdata2=CAcSEDE5Ni42Yjc4MDUxMjIwOTIYBiAAKAAwADgAQAFIA1AAWAFoAXAB HTTP/1.1
+Host: dzen.ru
+Connection: keep-alive
+Content-Length: 836
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+Zen-Client-Experiments: zen-version:1.145.0
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: application/json
+X-ZenLib-Version: 1.145.0
+Zen-Features: {"big_card_images":true,"blurred_preview":true,"carousel_support":true,"color_theme":"white","column_count":3,"complaints_with_reasons":true,"forced_bulk_stats":true,"interests_supported":true,"is_adblock_user":false,"need_background_image":true,"need_main_color":true,"need_zen_one_data":true,"no_amp_links":true,"no_small_auth":true,"pass_experiments":true,"return_sources":true,"screen":{"dpi":241,"height":911,"width":1280},"screens":["feed","category","categories","profile","switchable_subs","suggest","multisearch","blocked","preferences","subscribers","blocked_suggest","video_recommend","video_related","language","send_app_link_sms","comments_counter","comments_infos","social_profile","social_profile_edit","social_interests_feedback","profile_onboarding_shown","profile_complete_onboarding","profile_deactivate","profile_cancel_deactivate","get_video_popup_data","get_online_viewer_count","video_more"],"stat_params_with_context":true,"video_providers":["yandex-web","youtube","youtube-web"]}
+sec-ch-ua-platform: "Windows"
+Origin: https://dzen.ru
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://dzen.ru/?yredirect=true
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: vid=f6da208ec888cd55; _ym_uid=1671449196751919335; _ym_d=1671449196; tmr_lvid=7e68d6aa88e46d6c774cce798e243078; tmr_lvidTS=1671449196497; yandex_login=d15031985; ys=c_chck.1201322956#udn.cDpkMTUwMzE5ODU%3D; yandexuid=8163798301671449194; mda2_beacon=1671449252581; gdpr=0; Zen-User-Data={%22zen-theme%22:%22light%22}; Session_id=3:1674479479.5.0.1671449252571:2hBwJQ:213.1.2:1|235331517.0.2|64:10006900.186646.4ayQHJ3y-mFq5ZEfDjehoDKSAz0; sessionid2=3:1674479479.5.0.1671449252571:2hBwJQ:213.1.2:1|235331517.0.2|64:10006900.186646.fakesign0000000000000000000; zen_sso_checked=1; _yasc=klHvtAMg5B9q4CAsRhSmjBGt8Uln9X8+g0RKfPf1t6QB2PYwh8Q+5ykdfmWjlpQ=; _ym_isad=2; tmr_detect=0%7C1684944270100
+

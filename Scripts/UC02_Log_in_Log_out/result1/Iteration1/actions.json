@@ -1,0 +1,85 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: ALL",
+                "infFile": "t1.inf",
+                "time": 1685538518988
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t2.inf",
+                "time": 1685538519209
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: categories",
+                "infFile": "t3.inf",
+                "time": 1685538519471
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: search",
+                "infFile": "t4.inf",
+                "time": 1685538519753
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: home-page.html",
+                "infFile": "t5.inf",
+                "time": 1685538520393
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: AccountLoginRequest",
+                "infFile": "t6.inf",
+                "time": 1685538520809
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: register-page.html",
+                "infFile": "t7.inf",
+                "time": 1685538520985
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: AccountLogoutRequest",
+                "infFile": "t8.inf",
+                "time": 1685538521390
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Open_homepage",
+                "rawStartTime": 1685538518220,
+                "rawEndTime": 1685538520393,
+                "thinkTime": 0.0,
+                "wastedTime": 0.11609196662902832
+            },
+            {
+                "transactionName": "log_in",
+                "rawStartTime": 1685538520420,
+                "rawEndTime": 1685538520985,
+                "thinkTime": 0.0,
+                "wastedTime": 0.009729146957397461
+            },
+            {
+                "transactionName": "log_out",
+                "rawStartTime": 1685538521011,
+                "rawEndTime": 1685538521390,
+                "thinkTime": 0.0,
+                "wastedTime": 0.004774332046508789
+            },
+            {
+                "transactionName": "UC02_Log_in_Log_out",
+                "rawStartTime": 1685538518205,
+                "rawEndTime": 1685538521406,
+                "thinkTime": 0.0,
+                "wastedTime": 0.13059544563293458
+            }
+        ]
+    }
+]

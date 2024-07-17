@@ -1,0 +1,13 @@
+HTTP/1.1 200 Ok
+Cache-Control: no-cache, max-age=0, must-revalidate, no-store
+Content-Encoding: br
+Content-Type: application/json; charset=utf-8
+Pragma: no-cache
+Transfer-Encoding: chunked
+X-Aab-Host: dzen.ru
+X-Content-Type-Options: nosniff
+X-Requestid: 1975848029.96.1684944326365.45174
+X-XSS-Protection: 1; mode=block
+X-Yandex-Req-Id: 1684944326361896-1751432615016303745700118-production-app-host-sas-zen-393
+Zen-Server-Experiments: video_statistic:exp,zenkitx__debug:exp,enable_editor_without_bundle:exp
+

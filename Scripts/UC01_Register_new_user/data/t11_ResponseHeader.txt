@@ -1,0 +1,17 @@
+HTTP/1.1 200 Ok
+Cache-Control: private,proxy-revalidate,max-age=3600
+Content-Encoding: br
+Content-Security-Policy: connect-src mc.yandex.com yandex.ru 'self' suggest.sso.dzen.ru mc.yandex.ru *.mc.yandex.ru adstat.yandex.ru mc.admetrica.ru;script-src 'nonce-68tDfJwNg/MTySh7UjxvSg==' mc.yandex.com yastatic.net suggest.sso.dzen.ru mc.yandex.ru *.mc.yandex.ru adstat.yandex.ru;img-src *.verify.yandex.ru *.ya.ru *.yandex.ru ya.ru yandex.ru 'self' yastatic.net data: favicon.yandex.net yabs.yandex.ru yandex.net avatars.mds.yandex.net mc.admetrica.ru mc.yandex.com *.mc.yandex.ru adstat.yandex.ru mc.yandex.ru;child-src *.ya.ru *.yandex.ru ya.ru yandex.ru mc.yandex.ru mc.yandex.md *.ya.ru *.yandex.ru ya.ru yandex.ru;style-src 'unsafe-inline';report-uri https://csp.yandex.net/csp?project=morda&from=morda.big.ru&showid=1684944325147818-11055967132256013468-rtc-balancer-suggest-dzen-ru-sas-25-BAL&h=stable-portal-mordago-163.vla.yp-c.yandex.net&yandexuid=8163798301671449194&&version=2023-05-23-288&adb=0;default-src 'none';frame-ancestors *.yandex.ru yandex.ru dzen.ru *.dzen.ru
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 24 May 2023 16:05:25 GMT
+ETag: W/THCDleFRvP4TqNpWnTHGwwe1684947925
+Expires: Wed, 24 May 2023 16:05:25 GMT
+Last-Modified: Wed, 24 May 2023 16:05:25 GMT
+P3P: policyref="/w3c/p3p.xml", CP="NON DSP ADM DEV PSD IVDo OUR IND STP PHY PRE NAV UNI"
+Reporting-Endpoints: default="https://suggest.sso.dzen.ru/portal/front/reports/?slots=770037%2C0%2C33%3B773485%2C0%2C37&region=0&reqid=1684944325147818-11055967132256013468-rtc-balancer-suggest-dzen-ru-sas-25-BAL&dc=vla&page=dzen_suggest"
+Timing-Allow-Origin: *
+Transfer-Encoding: chunked
+Vary: Cookie,Accept-Language,Accept-Encoding
+X-Yandex-Req-Id: 1684944325147818-11055967132256013468-rtc-balancer-suggest-dzen-ru-sas-25-BAL
+X-Yandex-STS-Plus: 1
+

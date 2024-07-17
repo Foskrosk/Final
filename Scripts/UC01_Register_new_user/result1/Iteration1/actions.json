@@ -1,0 +1,110 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Url: ALL",
+                "infFile": "t1.inf",
+                "time": 1685538434365
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: GetAccountConfigurationRequest",
+                "infFile": "t2.inf",
+                "time": 1685538434732
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Url: categories",
+                "infFile": "t3.inf",
+                "time": 1685538435019
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: search",
+                "infFile": "t4.inf",
+                "time": 1685538435321
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: home-page.html",
+                "infFile": "t5.inf",
+                "time": 1685538436017
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: register-page.html",
+                "infFile": "t6.inf",
+                "time": 1685538436377
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: GetCountriesRequest",
+                "infFile": "t7.inf",
+                "time": 1685538436821
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: AccountCreateRequest",
+                "infFile": "t8.inf",
+                "time": 1685538437361
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: AccountLoginRequest",
+                "infFile": "t9.inf",
+                "time": 1685538437839
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Url: {userId}",
+                "infFile": "t10.inf",
+                "time": 1685538438189
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: AccountLogoutRequest",
+                "infFile": "t11.inf",
+                "time": 1685538438608
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Open_homepage",
+                "rawStartTime": 1685538433562,
+                "rawEndTime": 1685538436017,
+                "thinkTime": 0.0,
+                "wastedTime": 0.12203836441040039
+            },
+            {
+                "transactionName": "Click_create_new_account",
+                "rawStartTime": 1685538436042,
+                "rawEndTime": 1685538436848,
+                "thinkTime": 0.0,
+                "wastedTime": 0.011117219924926758
+            },
+            {
+                "transactionName": "Click_Register",
+                "rawStartTime": 1685538436880,
+                "rawEndTime": 1685538438199,
+                "thinkTime": 0.0,
+                "wastedTime": 0.012852668762207032
+            },
+            {
+                "transactionName": "log_out",
+                "rawStartTime": 1685538438231,
+                "rawEndTime": 1685538438609,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0055544376373291019
+            },
+            {
+                "transactionName": "01_Register_new_user",
+                "rawStartTime": 1685538433546,
+                "rawEndTime": 1685538438613,
+                "thinkTime": 0.0,
+                "wastedTime": 0.15156269073486329
+            }
+        ]
+    }
+]

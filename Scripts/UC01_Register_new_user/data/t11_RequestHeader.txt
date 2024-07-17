@@ -1,0 +1,19 @@
+GET /portal/dzensearch/desktop?enable_suggest_sso_dzen_host=1&ext-test-id=736493&yu=8163798301671449194&clid= HTTP/1.1
+Host: suggest.sso.dzen.ru
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: iframe
+Referer: https://dzen.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: vid=f6da208ec888cd55; _ym_uid=1671449196751919335; _ym_d=1671449196; tmr_lvid=7e68d6aa88e46d6c774cce798e243078; tmr_lvidTS=1671449196497; yandex_login=d15031985; ys=c_chck.1201322956#udn.cDpkMTUwMzE5ODU%3D; yandexuid=8163798301671449194; mda2_beacon=1671449252581; gdpr=0; Session_id=3:1674479479.5.0.1671449252571:2hBwJQ:213.1.2:1|235331517.0.2|64:10006900.186646.4ayQHJ3y-mFq5ZEfDjehoDKSAz0; sessionid2=3:1674479479.5.0.1671449252571:2hBwJQ:213.1.2:1|235331517.0.2|64:10006900.186646.fakesign0000000000000000000; zen_sso_checked=1; i=8PWzH58QG/9s7MfvGb+u0FjHszJPNKKKlGvR0asieW0RVvZyAk+V9RHAufzCQnyM2AB5bd41YtlCUnYF722Xh2Xcd6g=; yandexuid=2968143781684944266; _yasc=klHvtAMg5B9q4CAsRhSmjBGt8Uln9X8+g0RKfPf1t6QB2PYwh8Q+5ykdfmWjlpQ=; _ym_isad=2
+If-None-Match: W/Xmx1S83Donm3YuzQVEo1eAe1684947867
+

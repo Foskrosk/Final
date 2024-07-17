@@ -1,0 +1,17 @@
+GET /watch/88704539?wmode=7&page-url=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue&charset=utf-8&site-info=%7B%7D&uah=chu%0A%22Google%20Chrome%22%3Bv%3D%22113%22%2C%22Chromium%22%3Bv%3D%22113%22%2C%22Not-A.Brand%22%3Bv%3D%2224%22%0Acha%0Ax86%0Achb%0A64%0Achf%0A113.0.5672.127%0Achl%0A%22Google%20Chrome%22%3Bv%3D%22113.0.5672.127%22%2C%22Chromium%22%3Bv%3D%22113.0.5672.127%22%2C%22Not-A.Brand%22%3Bv%3D%2224.0.0.0%22%0Achm%0A%3F0%0Achp%0AWindows%0Achv%0A10.0.0&browser-info=pv%3A1%3Avf%3A1ss15ba0zb4zs88uqu7o5nj%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A1043%3Acn%3A1%3Adp%3A0%3Als%3A294076858688%3Ahid%3A254482248%3Az%3A300%3Ai%3A20230524210526%3Aet%3A1684944327%3Ac%3A1%3Arn%3A171671303%3Arqn%3A53%3Au%3A1671449196751919335%3Aw%3A1263x911%3As%3A1280x1024x24%3Ask%3A1%3Ads%3A0%2C0%2C3%2C333%2C5%2C0%2C%2C316%2C0%2C%2C%2C%2C2515%3Aco%3A0%3Acpf%3A1%3Ans%3A1684944323877%3Aadb%3A2%3Arqnl%3A1%3Ast%3A1684944327%3At%3A%D0%94%D0%B7%D0%B5%D0%BD&t=gdpr(13-0)rqnt(1)aw(0)yu(8163798301671449194)ti(2) HTTP/1.1
+Host: mc.yandex.ru
+Connection: keep-alive
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+sec-ch-ua-platform: "Windows"
+Accept: */*
+Origin: https://dzen.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://dzen.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: gdpr=0; is_gdpr=0; yandex_login=d15031985; yabs-sid=337584441671449194; yandexuid=8163798301671449194; yuidss=8163798301671449194; is_gdpr_b=CN3iTBD2mwEoAg==; ymex=1986809194.yrts.1671449194#1986809194.yrtsi.1671449194; _ym_uid=1671449196170905646; ys=udn.cDpkMTUwMzE5ODU%3D#wprid.1671449268358088-11575354293307916930-sas3-1012-26a-sas-l7-balancer-8080-BAL-855#c_chck.1201322956; yashr=7570657411674479461; Session_id=3:1675667433.5.0.1671449249376:2hBwJQ:1b.1.2:1|235331517.0.2|3:10265175.507262.zUfiw0ez2kJOozuo3t3SLNqIU64; sessionid2=3:1675667433.5.0.1671449249376:2hBwJQ:1b.1.2:1|235331517.0.2|3:10265175.507262.fakesign0000000000000000000; i=3vuc+0FyCDvZH0Pt45Mymd84vWUr2cDzGf8a8PtBoAyA2jKynYMTfK71SiPVoy1/3vUNhgNzv5N2clFx088MHxEYKKU=; bh=EkEiR29vZ2xlIENocm9tZSI7dj0iMTEzIiwgIkNocm9taXVtIjt2PSIxMTMiLCAiTm90LUEuQnJhbmQiO3Y9IjI0IhoFIng4NiIiECIxMTMuMC41NjcyLjEyNyIqAj8wOgkiV2luZG93cyJCCCIxMC4wLjAiSgQiNjQiUlwiR29vZ2xlIENocm9tZSI7dj0iMTEzLjAuNTY3Mi4xMjciLCJDaHJvbWl1bSI7dj0iMTEzLjAuNTY3Mi4xMjciLCJOb3QtQS5CcmFuZCI7dj0iMjQuMC4wLjAiIg==
+

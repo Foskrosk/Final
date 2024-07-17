@@ -1,0 +1,11 @@
+Start auto log messages stack - Iteration 51.	[MsgId: MMSG-10545]
+..\\Parameters\\common.h(22): web_add_auto_header("sec-ch-ua") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(25): web_add_auto_header("sec-ch-ua-mobile") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(25): web_add_auto_header("sec-ch-ua-mobile") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(28): web_add_auto_header("sec-ch-ua-platform") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(28): web_add_auto_header("sec-ch-ua-platform") was successful  	[MsgId: MMSG-26392]
+..\\Parameters\\common.h(32): web_url("ALL") started  	[MsgId: MMSG-26355]
+..\\Parameters\\common.h(32): Error -27760: Request "https://www.advantageonlineshopping.com/catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL" failed  	[MsgId: MERR-27760]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

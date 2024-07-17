@@ -1,0 +1,15 @@
+HTTP/1.1 200 Ok
+Accept-CH: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://dzen.ru
+Cache-Control: private, no-cache, no-store, must-revalidate, max-age=0
+Content-Length: 43
+Content-Type: image/gif
+Date: Wed, 24 May 2023 16:05:25 GMT
+Expires: Wed, 24-May-2023 16:05:25 GMT
+Last-Modified: Wed, 24-May-2023 16:05:25 GMT
+Pragma: no-cache
+Set-Cookie: bh=EkEiR29vZ2xlIENocm9tZSI7dj0iMTEzIiwgIkNocm9taXVtIjt2PSIxMTMiLCAiTm90LUEuQnJhbmQiO3Y9IjI0IhoFIng4NiIiECIxMTMuMC41NjcyLjEyNyIqAj8wOgkiV2luZG93cyJCCCIxMC4wLjAiSgQiNjQiUlwiR29vZ2xlIENocm9tZSI7dj0iMTEzLjAuNTY3Mi4xMjciLCJDaHJvbWl1bSI7dj0iMTEzLjAuNTY3Mi4xMjciLCJOb3QtQS5CcmFuZCI7dj0iMjQuMC4wLjAiIg==; Expires=Thu, 23-May-2024 16:05:25 GMT; Domain=.yandex.ru; Path=/; SameSite=None; Secure
+Strict-Transport-Security: max-age=31536000
+X-XSS-Protection: 1; mode=block
+

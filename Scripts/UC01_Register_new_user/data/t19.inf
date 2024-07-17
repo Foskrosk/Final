@@ -1,0 +1,13 @@
+[t19]
+FileName1=t19.gif
+URL1=https://mc.yandex.ru/watch/88704539?browser-info=pv%3A1%3Aar%3A1%3Au%3A1671449196751919335%3Azu%3A8163798301671449194%3Arn%3A660955%3Ac%3A1%3As%3A1280x1024x24%3Aen%3Autf-8%3At%3Ayndx.searchform.iframe.show&rn=218151&page-url=https%3A%2F%2Fdzen.ru%2F%3Fyredirect%3Dtrue
+Total=1
+RequestHeaderFile=t19_RequestHeader.txt
+RequestBodyFile=t19_RequestBody.txt
+ResponseHeaderFile=t19_ResponseHeader.txt
+ContentType=image/gif
+FrameIndex1=0
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_19.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

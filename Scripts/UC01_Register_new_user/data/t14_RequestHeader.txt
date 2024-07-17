@@ -1,0 +1,19 @@
+POST /counter?js=13;id=3260250;u=https%3A//dzen.ru/%3Fyredirect%3Dtrue;st=1684944324574;title=%D0%94%D0%B7%D0%B5%D0%BD;s=1280*1024;vp=1263*911;touch=0;hds=1;frame=0;flash=;sid=1119a693e9335e70;ver=60.3.0;tz=-300%2FAsia%2FYekaterinburg;ni=1.75//4g/100/0/;detect=0;lvid=1671449196497%3A1684944325710%3A106%3A7e68d6aa88e46d6c774cce798e243078;visible=false;_=0.8477019184461843 HTTP/1.1
+Host: top-fwz1.mail.ru
+Connection: keep-alive
+Content-Length: 0
+sec-ch-ua: "Google Chrome";v="113", "Chromium";v="113", "Not-A.Brand";v="24"
+sec-ch-ua-platform: "Windows"
+sec-ch-ua-mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+Content-Type: text/plain;charset=UTF-8
+Accept: */*
+Origin: https://dzen.ru
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+Referer: https://dzen.ru/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Cookie: p=3GABABAu8TwA; searchuid=8163798301671449194; b=kEsNAKCm1v0ALQvWCgEAABCHIQ4TddPEDcN4ghJ/wvwNzV4YDpthGA4dYRgOSVkYDkXH/A1vVBgOYa38Df4ZlHbBt/aDN5yPzpyGMwWG4eAHYe8TAAAA; c=zGygYwMAkHsTAAAkAAQAM9MZoIm8DGACAAAo3SDYNvMH; VID=3yEcCo1YIfoH0024UQ0nGJIH:::0-0-0-8baa32a:CAASEBV9_0k3zJnOPOmE6-pM2AwaYMe3y3w_4a3HtG5_Kaaj_Nj6f-mdXZX93zP9eKnHkPfwrgb8gjeUPJdG_qMqeDQiPTA_QyMSRjf3yosAhsO8K_vEdAewf0TnhjWUFpivcVd00T-QLY8oFd_HejPCmsrrxA
+
